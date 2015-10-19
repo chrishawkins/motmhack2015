@@ -1,3 +1,49 @@
+html, body {
+  height: 100%; }
 
+body {
+  margin: 0;
+  font-size: 22px;
+  font-family: sans-serif; }
+
+div#backdrop {
+  width: 100%;
+  height: 100%;
+  position: absolute; }
+
+div#map {
+  width: 100%;
+  height: 100%; }
+
+header {
+  background-color: #111111;
+  color: #FFFFFF;
+  padding: 4px 6px;
+  height: 30px;
+  position: fixed;
+  z-index: 999;
+  width: 100%; }
+  header h1 {
+    font-size: 14px;
+    float: left;
+    line-height: 1; }
+  header ul {
+    margin: 0;
+    font-size: 12px;
+    float: left;
+    list-style: none; }
+    header ul li {
+      float: left;
+      margin-top: 3px; }
+      header ul li a {
+        color: white;
+        padding: 5px;
+        display: block;
+        text-decoration: none; }
+      header ul li a.on {
+        background-color: green;
+        border-radius: 4px; }
+      header ul li a.off {
+        color: #AAAAAA; }
 
 /*# sourceMappingURL=styles.css.map */

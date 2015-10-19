@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Richmond Employment Demand and Back to Work Console</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel="stylesheet" href="styles.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    </head>
+    <body>
+
+    <header>
+        <h1>Richmond Back to Work Map</h1>
+        <ul>
+            <li><a class="off" href="#" id="toggle-jobseekers">Jobseekers</a></li>
+            <li><a class="off" href="#" id="toggle-vacancies">Vacancies</a></li>
+            <li><a class="off" href="#" id="toggle-graduation">Graduation Rate</a></li>
+            <li><a class="off" href="#" id="toggle-crime">Crime</a></li>
+        </ul>
+    </header>
+
+    <div id="backdrop">
+        <div id="map">
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/async/1.4.2/async.min.js"></script>
+    <script type="text/javascript">
+
+        var seekersShown = false;
+        var vacanciesShown = true;
+        var graduateRateShown = false;
+        var crimeShown = false;
+
+        function load()
+        {
+            $("#toggle-jobseekers").attr("class", seekersShown ? "on" : "off");
+            $("#toggle-vacancies").attr("class", vacanciesShown ? "on" : "off");
+            $("#toggle-graduation").attr("class", graduateRateShown ? "on" : "off");
+            $("#toggle-crime").attr("class", crimeShown ? "on" : "off");
+        }
+
+        $("#toggle-jobseekers").click(function() { seekersShown = !seekersShown; load(); refresh(); });
+        $("#toggle-vacancies").click(function() { vacanciesShown = !vacanciesShown; load(); refresh(); });
+        $("#toggle-graduation").click(function() { graduateRateShown = !graduateRateShown; load(); refresh(); });
+        $("#toggle-crime").click(function() { crimeShown = !crimeShown; load(); refresh(); });
+
+        $(document).ready(load);
+        var map;
+
+        function initMap() {
+
+            map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 12,
+                center: { lat: 37.9531954, lng: -122.3749233 }
+            });
+
+            var transitLayer = new google.maps.TransitLayer();
+            transitLayer.setMap(map);
+
+            //var geocoder = new google.maps.Geocoder;
+            refresh();
+        }
+
+        var mapEntities = [];
+
+        function refresh()
+        {
+            for (var i in mapEntities) {
+                mapEntities[i].setMap(null);
+            }
+
+            mapEntities = [];
+
+            if (vacanciesShown)
+            {
+                $.getJSON("/ui/data/count_by_region.json", function(data) {
+    
+                    async.waterfall([
+                            function downloadLocations(next) {
+                                $.getJSON("/ui/data/locations.json", function(data) {
+                                    next(null, data);
+                                }).fail(function(error) {
+                                    console.log(error);
+                                    next(error);
+                                });
+                            },
+                            function renderCircles(locations, next) {
+    
+                                console.log("loaded");
+                                console.log(locations);
+                                
+                                for (var city in data) {
+                                    if (city in locations) {
+                                        populateVacancies(map, city, locations[city], data[city]);
+                                    } else {
+                                        console.log("MISSING CITY " + city);
+                                    }
+                                }
+                            }
+                        ]);
+
+                    /*async.forEachOfLimit(data, 10, function(count, city, next) {
+                
+                        if (city in locationCache) {
+                            populateVacancies(map, city, locationCache[city], count);
+                            next();
+                        } else {
+                            geocoder.geocode({'address': city + ', CA'}, function(results, status) {
+                                if (results == null || results.length == 0) {
+                                    console.log("ERROR " + city + ": " + status);
+                                } else {
+                                    //console.log(results[0].geometry.location);
+                                    locationCache[city] = results[0].geometry.location;
+                                    populateVacancies(map, city, locationCache[city], count);
+                                }
+                                window.setTimeout(next, 10000);
+                                //next();
+                            });
+                        }
+                    }); */
+                });
+    
+            }
+        }
+
+        function populateVacancies(map, city, location, count) {
+
+            mapEntities.push(new google.maps.Circle({
+                strokeColor: '#FF0000',
+                strokeOpacity: 0.8,
+                strokeWeight: 2,
+                fillColor: '#FF0000',
+                fillOpacity: 0.35,
+                map: map,
+                center: location,
+                radius: Math.sqrt(count) * 100
+             }));
+        }
+
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBbKRiE4IfGK3mngPVaTVaCpeLjhbUSCcg&callback=initMap" async defer></script>
+
+    </body>
+</html>

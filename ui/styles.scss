@@ -1,0 +1,74 @@
+
+
+html, body
+{
+    height: 100%;
+}
+
+body
+{
+	margin: 0;
+	font-size: 22px;
+    font-family: sans-serif;
+}
+
+div#backdrop
+{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+div#map
+{
+	width: 100%;
+	height: 100%;
+}
+
+header
+{
+    background-color: #111111;
+    color: #FFFFFF;
+    padding: 4px 6px;
+    height: 30px;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+
+    h1
+    {
+        font-size: 14px;
+        float: left;
+        line-height: 1;
+    }
+
+    ul
+    {
+        margin: 0;
+        font-size: 12px;
+        float: left;
+        list-style: none;
+
+        li
+        {
+            float: left;
+            margin-top: 3px;
+            
+            a {
+                color: white;
+                padding: 5px;
+                display: block;
+                text-decoration: none;
+            }
+
+            a.on {
+                background-color: green;
+                border-radius: 4px;
+            }
+
+            a.off {
+                color: #AAAAAA;
+            }
+        }
+    }
+}
