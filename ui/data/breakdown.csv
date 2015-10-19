@@ -1,0 +1,2025 @@
+Berkeley|Laborer|6
+Oakland|Laborer|3
+Richmond|Laborer|2
+Fairfield|Laborer|2
+San Rafael|Laborer|5
+Novato|Laborer|3
+San Francisco|Laborer|29
+South San Francisco|Laborer|2
+San Anselmo|Laborer|1
+Greenbrae|Laborer|1
+Mill Valley|Laborer|2
+Martinez|Laborer|6
+Petaluma|Laborer|2
+San Francisco Bay Area|Laborer|2
+Walnut Creek|Laborer|2
+Daly City|Laborer|4
+Orinda|Laborer|1
+Vallejo|Laborer|1
+Tiburon|Laborer|1
+Sausalito|Laborer|1
+Concord|Laborer|7
+Millbrae|Laborer|1
+Pacifica|Laborer|1
+East Bay|Laborer|5
+Alameda|Laborer|1
+Benicia|Laborer|1
+Emeryville|Laborer|2
+Brisbane|Laborer|1
+Castro Valley|Laborer|1
+Bolinas|Laborer|1
+Napa Valley|Laborer|1
+Oakland|Driver|1115
+Richmond|Driver|1140
+San Pablo|Driver|11
+San Rafael|Driver|27
+Albany|Driver|15
+East Bay|Driver|7
+Pacheco|Driver|1
+San Francisco|Driver|2202
+Orinda|Driver|6
+San Leandro|Driver|1040
+Emeryville|Driver|16
+South San Francisco|Driver|27
+Concord|Driver|70
+San Francisco Bay Area|Driver|28
+Fairfield|Driver|1
+Vallejo|Driver|24
+El Sobrante|Driver|7
+Pinole|Driver|7
+El Cerrito|Driver|9
+Hercules|Driver|9
+Crockett|Driver|3
+Rodeo|Driver|3
+Novato|Driver|8
+Hayward|Driver|3
+Benicia|Driver|12
+Greenbrae|Driver|2
+Berkeley|Driver|47
+Alameda|Driver|21
+Canyon|Driver|1
+Colma|Driver|1
+Point Richmond|Driver|2
+Napa|Driver|1
+Walnut Creek|Driver|26
+Daly City|Driver|8
+Lagunitas|Driver|2
+Nicasio|Driver|1
+San Geronimo|Driver|1
+Petaluma|Driver|11
+Port Costa|Driver|1
+Martinez|Driver|19
+Fairfax|Driver|3
+San Ramon|Driver|5
+Pleasant Hill|Driver|9
+Woodacre|Driver|1
+Ross|Driver|3
+San Anselmo|Driver|1
+Larkspur|Driver|3
+San Quentin|Driver|2
+Castro Valley|Driver|9
+Clayton|Driver|1
+Brisbane|Driver|8
+Sonoma|Driver|4
+Piedmont|Driver|3
+Pacifica|Driver|2
+San Lorenzo|Driver|3
+Belvedere Tiburon|Driver|1
+Lafayette|Driver|3
+American Canyon|Driver|2
+Olema|Driver|2
+Point Reyes Station|Driver|1
+Ashland|Driver|1
+San Bruno|Driver|4
+Danville|Driver|2
+Corte Madera|Driver|1
+Millbrae|Driver|3
+Sausalito|Driver|1
+Moraga|Driver|1
+Diablo|Driver|1
+Burlingame|Driver|1
+Tiburon|Driver|1
+Westlake|Driver|1
+Richmond|Mechanic|23
+Oakland|Mechanic|58
+San Rafael|Mechanic|11
+Concord|Mechanic|31
+Vallejo|Mechanic|9
+San Francisco|Mechanic|265
+Berkeley|Mechanic|33
+Benicia|Mechanic|7
+Pacheco|Mechanic|2
+San Pablo|Mechanic|1
+San Francisco Bay Area|Mechanic|9
+San Leandro|Mechanic|25
+Walnut Creek|Mechanic|16
+Corte Madera|Mechanic|3
+Pleasant Hill|Mechanic|4
+Albany|Mechanic|1
+South San Francisco|Mechanic|32
+El Cerrito|Mechanic|4
+Emeryville|Mechanic|4
+Hercules|Mechanic|7
+East Bay|Mechanic|10
+Petaluma|Mechanic|11
+Daly City|Mechanic|3
+Lafayette|Mechanic|1
+Martinez|Mechanic|5
+Rodeo|Mechanic|3
+West Berkeley|Mechanic|1
+Alameda|Mechanic|3
+San Lorenzo|Mechanic|1
+Pinole|Mechanic|3
+Sonoma|Mechanic|2
+Sausalito|Mechanic|1
+Brisbane|Mechanic|6
+Greenbrae|Mechanic|2
+Hayward|Mechanic|2
+San Ramon|Mechanic|5
+Moraga|Mechanic|1
+Novato|Mechanic|1
+Richmond|Truck Driver|72
+San Pablo|Truck Driver|29
+El Sobrante|Truck Driver|14
+Pinole|Truck Driver|8
+El Cerrito|Truck Driver|8
+Hercules|Truck Driver|18
+Crockett|Truck Driver|1
+Rodeo|Truck Driver|1
+Albany|Truck Driver|24
+Berkeley|Truck Driver|41
+Oakland|Truck Driver|140
+Emeryville|Truck Driver|17
+Canyon|Truck Driver|1
+Concord|Truck Driver|51
+Martinez|Truck Driver|42
+Lagunitas|Truck Driver|1
+Nicasio|Truck Driver|1
+San Geronimo|Truck Driver|1
+Port Costa|Truck Driver|1
+San Leandro|Truck Driver|69
+Pacheco|Truck Driver|1
+Hayward|Truck Driver|4
+Pleasant Hill|Truck Driver|10
+Petaluma|Truck Driver|25
+Alameda|Truck Driver|27
+Benicia|Truck Driver|27
+Woodacre|Truck Driver|1
+Ross|Truck Driver|1
+San Anselmo|Truck Driver|11
+Fairfax|Truck Driver|7
+Larkspur|Truck Driver|7
+Greenbrae|Truck Driver|1
+Vallejo|Truck Driver|48
+San Quentin|Truck Driver|1
+San Rafael|Truck Driver|21
+Clayton|Truck Driver|4
+Castro Valley|Truck Driver|13
+San Francisco|Truck Driver|130
+Walnut Creek|Truck Driver|17
+Sonoma|Truck Driver|5
+San Lorenzo|Truck Driver|9
+Belvedere Tiburon|Truck Driver|1
+Orinda|Truck Driver|15
+Lafayette|Truck Driver|17
+Novato|Truck Driver|12
+American Canyon|Truck Driver|4
+South San Francisco|Truck Driver|14
+Olema|Truck Driver|1
+Point Reyes Station|Truck Driver|1
+Brisbane|Truck Driver|5
+San Ramon|Truck Driver|8
+Danville|Truck Driver|10
+Sausalito|Truck Driver|2
+Corte Madera|Truck Driver|6
+Mill Valley|Truck Driver|4
+Stinson Beach|Truck Driver|1
+Bolinas|Truck Driver|1
+Moraga|Truck Driver|7
+Diablo|Truck Driver|1
+Alamo|Truck Driver|1
+Pacifica|Truck Driver|4
+Daly City|Truck Driver|6
+Millbrae|Truck Driver|28
+San Bruno|Truck Driver|6
+East Bay|Truck Driver|1
+Piedmont|Truck Driver|12
+San Francisco Bay Area|Truck Driver|8
+Cherryland|Truck Driver|6
+Ashland|Truck Driver|5
+Tiburon|Truck Driver|3
+Kentfield|Truck Driver|1
+Avon|Truck Driver|1
+San Francisco|Foreman|44
+San Rafael|Foreman|4
+Berkeley|Foreman|1
+Alameda|Foreman|6
+Oakland|Foreman|7
+Orinda|Foreman|1
+Richmond|Foreman|1
+Benicia|Foreman|1
+San Francisco Bay Area|Foreman|10
+East Bay|Foreman|2
+Concord|Foreman|2
+Daly City|Foreman|2
+San Leandro|Foreman|2
+Martinez|Foreman|1
+Petaluma|Foreman|2
+Emeryville|Foreman|2
+Lafayette|Foreman|1
+San Ramon|Foreman|3
+Novato|Foreman|3
+Walnut Creek|Foreman|1
+San Bruno|Foreman|1
+South San Francisco|Foreman|1
+Danville|Waiter/Waitress|2
+San Francisco|Waiter/Waitress|10
+Walnut Creek|Waiter/Waitress|1
+Hercules|Operator|8
+East Bay|Operator|4
+Richmond|Operator|31
+Martinez|Operator|20
+San Leandro|Operator|36
+Berkeley|Operator|35
+San Francisco|Operator|356
+Daly City|Operator|22
+Oakland|Operator|105
+Concord|Operator|25
+Albany|Operator|7
+San Rafael|Operator|9
+San Francisco Bay Area|Operator|13
+American Canyon|Operator|8
+Alameda|Operator|20
+Petaluma|Operator|24
+Central Basin|Operator|1
+South San Francisco|Operator|32
+Vallejo|Operator|28
+San Ramon|Operator|35
+Walnut Creek|Operator|42
+Benicia|Operator|48
+Emeryville|Operator|28
+Sonoma|Operator|9
+Castro Valley|Operator|1
+Napa|Operator|5
+San Lorenzo|Operator|2
+San Pablo|Operator|5
+Bay Point|Operator|1
+Brisbane|Operator|14
+Novato|Operator|6
+Piedmont|Operator|4
+Greenbrae|Operator|2
+Avon|Operator|2
+Pinole|Operator|5
+Larkspur|Operator|4
+Burlingame|Operator|3
+Fairfax|Operator|6
+Fairfield|Operator|4
+Lagunitas|Operator|1
+Lafayette|Operator|2
+Danville|Operator|2
+Moraga|Operator|6
+Alamo|Operator|1
+Mill Valley|Operator|3
+Pacifica|Operator|5
+Port Costa|Operator|2
+Sausalito|Operator|2
+San Anselmo|Operator|1
+Tiburon|Operator|2
+Clayton|Operator|15
+El Cerrito|Operator|4
+Corte Madera|Operator|2
+Pleasant Hill|Operator|1
+Vine Hill|Operator|1
+Orinda|Operator|2
+Millbrae|Operator|4
+San Bruno|Operator|2
+Richmond|Maintenance|69
+Oakland|Maintenance|316
+San Leandro|Maintenance|49
+Berkeley|Maintenance|69
+Concord|Maintenance|46
+Vallejo|Maintenance|23
+Martinez|Maintenance|138
+San Francisco|Maintenance|251
+Pacheco|Maintenance|2
+Pinole|Maintenance|9
+San Rafael|Maintenance|26
+Point Richmond|Maintenance|1
+Benicia|Maintenance|17
+East Bay|Maintenance|15
+Lafayette|Maintenance|5
+Emeryville|Maintenance|19
+Sonoma|Maintenance|4
+Moraga|Maintenance|3
+San Pablo|Maintenance|11
+Central Basin|Maintenance|1
+Greenbrae|Maintenance|2
+Novato|Maintenance|12
+South San Francisco|Maintenance|34
+San Bruno|Maintenance|4
+Walnut Creek|Maintenance|24
+Rodeo|Maintenance|3
+Fairfield|Maintenance|5
+Pleasant Hill|Maintenance|4
+Albany|Maintenance|4
+Daly City|Maintenance|8
+El Cerrito|Maintenance|3
+San Francisco Bay Area|Maintenance|314
+Hayward|Maintenance|3
+Hercules|Maintenance|7
+San Lorenzo|Maintenance|3
+Alameda|Maintenance|16
+El Sobrante|Maintenance|1
+Mill Valley|Maintenance|2
+Burlingame|Maintenance|2
+San Ramon|Maintenance|120
+Canyon|Maintenance|1
+Pacifica|Maintenance|3
+American Canyon|Maintenance|1
+Millbrae|Maintenance|2
+Petaluma|Maintenance|12
+Fairfax|Maintenance|2
+Castro Valley|Maintenance|3
+Woodacre|Maintenance|2
+Brisbane|Maintenance|2
+Corte Madera|Maintenance|3
+Tiburon|Maintenance|1
+Colma|Maintenance|1
+Napa Valley|Maintenance|1
+Bay Point|Maintenance|1
+Orinda|Maintenance|2
+Piedmont|Maintenance|1
+Crockett|Maintenance|1
+Berkeley|Carpenter|5
+Oakland|Carpenter|4
+Richmond|Carpenter|2
+San Francisco|Carpenter|21
+Lafayette|Carpenter|5
+Martinez|Carpenter|1
+Napa Valley|Carpenter|1
+San Rafael|Carpenter|5
+San Francisco Bay Area|Carpenter|2
+San Anselmo|Carpenter|2
+Tiburon|Carpenter|3
+Concord|Carpenter|5
+Walnut Creek|Carpenter|4
+Novato|Carpenter|2
+South San Francisco|Carpenter|2
+Greenbrae|Carpenter|2
+Sausalito|Carpenter|2
+Mill Valley|Carpenter|5
+Alameda|Carpenter|3
+Vallejo|Carpenter|1
+Daly City|Carpenter|1
+Millbrae|Carpenter|2
+Pacifica|Carpenter|2
+San Bruno|Carpenter|1
+Alamo|Carpenter|3
+Emeryville|Carpenter|3
+Petaluma|Carpenter|1
+Benicia|Carpenter|3
+Concord|Assembler|4
+Hercules|Assembler|11
+San Leandro|Assembler|2
+Oakland|Assembler|4
+Berkeley|Assembler|4
+San Francisco|Assembler|19
+San Francisco Bay Area|Assembler|1
+South San Francisco|Assembler|5
+Richmond|Assembler|2
+San Rafael|Assembler|2
+Canyon|Assembler|2
+Sonoma|Assembler|1
+Pinole|Assembler|2
+Brisbane|Assembler|2
+Pleasant Hill|Assembler|1
+Vallejo|Assembler|1
+El Sobrante|Assembler|1
+Petaluma|Assembler|2
+San Pablo|Assembler|2
+Alameda|Assembler|1
+Benicia|Assembler|1
+East Bay|Cook|2
+Martinez|Cook|3
+El Cerrito|Cook|6
+Berkeley|Cook|41
+Oakland|Cook|31
+Emeryville|Cook|11
+Pinole|Cook|11
+San Francisco|Cook|351
+Concord|Cook|33
+Burlingame|Cook|3
+Petaluma|Cook|17
+Walnut Creek|Cook|44
+San Bruno|Cook|25
+Castro Valley|Cook|13
+Vallejo|Cook|19
+San Rafael|Cook|14
+Alameda|Cook|9
+Pleasant Hill|Cook|12
+Richmond|Cook|15
+San Anselmo|Cook|1
+Fairfax|Cook|1
+Daly City|Cook|18
+San Ramon|Cook|8
+San Leandro|Cook|13
+Novato|Cook|13
+Corte Madera|Cook|11
+Millbrae|Cook|2
+Lafayette|Cook|7
+Danville|Cook|11
+Point Reyes Station|Cook|2
+South San Francisco|Cook|7
+Hercules|Cook|2
+San Francisco Bay Area|Cook|12
+Mill Valley|Cook|5
+Benicia|Cook|2
+Sonoma|Cook|9
+Belvedere Tiburon|Cook|1
+Napa|Cook|2
+Orinda|Cook|2
+Marin City|Cook|4
+American Canyon|Cook|4
+San Lorenzo|Cook|5
+Larkspur|Cook|1
+Greenbrae|Cook|2
+San Pablo|Cook|2
+Sausalito|Cook|6
+Brisbane|Cook|3
+Colma|Cook|1
+Hayward|Cook|1
+Tiburon|Cook|2
+Westlake|Cook|1
+Richmond|Machinist|6
+San Leandro|Machinist|4
+San Francisco|Machinist|6
+Berkeley|Machinist|12
+Alameda|Machinist|1
+Napa|Machinist|1
+San Rafael|Machinist|1
+Concord|Machinist|3
+Benicia|Machinist|3
+Martinez|Machinist|1
+Oakland|Machinist|2
+Richmond|Electrician|6
+Berkeley|Electrician|6
+Oakland|Electrician|8
+San Anselmo|Electrician|2
+San Rafael|Electrician|5
+Concord|Electrician|7
+Walnut Creek|Electrician|2
+Vallejo|Electrician|2
+San Francisco|Electrician|28
+Novato|Electrician|2
+South San Francisco|Electrician|1
+San Francisco Bay Area|Electrician|12
+Sausalito|Electrician|1
+Mill Valley|Electrician|4
+Martinez|Electrician|2
+Daly City|Electrician|2
+Millbrae|Electrician|1
+Pacifica|Electrician|2
+San Leandro|Electrician|8
+East Bay|Electrician|3
+Hercules|Electrician|1
+Alameda|Electrician|4
+San Bruno|Electrician|2
+Crockett|Electrician|3
+Benicia|Electrician|1
+Sonoma|Electrician|1
+San Ramon|Electrician|1
+Berkeley|Welder|6
+Napa|Welder|1
+Alameda|Welder|3
+Oakland|Welder|3
+San Leandro|Welder|3
+San Francisco Bay Area|Welder|1
+Martinez|Welder|5
+Benicia|Welder|2
+San Francisco|Welder|4
+Rodeo|Welder|1
+Concord|Welder|5
+Hayward|Welder|2
+Richmond|Welder|4
+Westlake|Welder|1
+Richmond|Machine Operator|3
+Berkeley|Machine Operator|4
+South San Francisco|Machine Operator|2
+Alameda|Machine Operator|3
+San Leandro|Machine Operator|7
+Concord|Machine Operator|3
+Petaluma|Machine Operator|2
+Oakland|Machine Operator|6
+San Francisco|Machine Operator|24
+San Francisco Bay Area|Machine Operator|1
+Napa|Machine Operator|2
+Vallejo|Machine Operator|2
+Sonoma|Machine Operator|1
+American Canyon|Machine Operator|1
+Martinez|Machine Operator|3
+Brisbane|Machine Operator|4
+Emeryville|Machine Operator|3
+Walnut Creek|Machine Operator|1
+San Ramon|Machine Operator|3
+San Francisco|Housekeeper/Maid|2
+Castro Valley|Housekeeper/Maid|1
+Oakland|Farmer|62
+San Francisco Bay Area|Farmer|8
+Berkeley|Farmer|63
+Concord|Farmer|22
+Emeryville|Farmer|2
+San Francisco|Farmer|110
+San Leandro|Farmer|4
+South San Francisco|Farmer|4
+Benicia|Farmer|2
+San Rafael|Farmer|23
+Petaluma|Farmer|26
+Pleasant Hill|Farmer|1
+Walnut Creek|Farmer|15
+San Bruno|Farmer|1
+Westlake|Farmer|2
+Daly City|Farmer|30
+San Ramon|Farmer|17
+Berkeley|Painter|1
+San Rafael|Painter|2
+Oakland|Painter|4
+San Francisco|Painter|14
+Novato|Painter|1
+South San Francisco|Painter|2
+Mill Valley|Painter|1
+Daly City|Painter|2
+Vallejo|Painter|1
+San Anselmo|Painter|2
+Alameda|Painter|2
+Walnut Creek|Painter|2
+Castro Valley|Painter|2
+Westlake|Painter|2
+Concord|Painter|2
+San Leandro|Painter|1
+South San Francisco|Factory Worker|1
+San Francisco Bay Area|Factory Worker|1
+El Cerrito|Factory Worker|2
+San Francisco|Factory Worker|10
+San Leandro|Factory Worker|1
+San Ramon|Factory Worker|1
+San Rafael|Factory Worker|1
+Oakland|Factory Worker|1
+Hercules|Production|26
+Richmond|Production|31
+Oakland|Production|58
+Berkeley|Production|39
+American Canyon|Production|6
+San Leandro|Production|17
+Alameda|Production|11
+Martinez|Production|4
+San Francisco|Production|136
+El Cerrito|Production|2
+Petaluma|Production|12
+Concord|Production|22
+Pinole|Production|2
+Albany|Production|1
+Walnut Creek|Production|6
+San Rafael|Production|11
+Napa|Production|2
+Emeryville|Production|13
+San Francisco Bay Area|Production|10
+South San Francisco|Production|26
+Fairfax|Production|1
+San Lorenzo|Production|3
+Pleasant Hill|Production|4
+Novato|Production|10
+Bay Point|Production|4
+Benicia|Production|8
+Daly City|Production|3
+San Bruno|Production|3
+Orinda|Production|1
+East Bay|Production|1
+Millbrae|Production|1
+Lafayette|Production|2
+Sonoma|Production|2
+Larkspur|Production|1
+Corte Madera|Production|1
+Alamo|Production|2
+Vallejo|Production|1
+Hayward|Production|1
+San Ramon|Production|1
+Brisbane|Production|2
+San Pablo|Production|1
+Castro Valley|Production|1
+Crockett|Production|1
+Canyon|Production|1
+Richmond|Stock Clerk|2
+Albany|Stock Clerk|10
+El Cerrito|Stock Clerk|12
+Pinole|Stock Clerk|6
+Berkeley|Stock Clerk|14
+Emeryville|Stock Clerk|19
+Castro Valley|Stock Clerk|12
+Martinez|Stock Clerk|17
+San Rafael|Stock Clerk|21
+Oakland|Stock Clerk|45
+San Francisco|Stock Clerk|49
+San Anselmo|Stock Clerk|11
+Greenbrae|Stock Clerk|7
+Benicia|Stock Clerk|11
+Clayton|Stock Clerk|9
+Alameda|Stock Clerk|19
+Concord|Stock Clerk|9
+Pleasant Hill|Stock Clerk|14
+Orinda|Stock Clerk|14
+Lafayette|Stock Clerk|8
+Walnut Creek|Stock Clerk|30
+Sonoma|Stock Clerk|5
+Corte Madera|Stock Clerk|13
+Vallejo|Stock Clerk|14
+San Leandro|Stock Clerk|25
+Novato|Stock Clerk|23
+South San Francisco|Stock Clerk|1
+San Ramon|Stock Clerk|26
+San Francisco Bay Area|Stock Clerk|1
+Mill Valley|Stock Clerk|14
+Sausalito|Stock Clerk|1
+Tiburon|Stock Clerk|5
+Moraga|Stock Clerk|8
+Alamo|Stock Clerk|14
+Danville|Stock Clerk|4
+Petaluma|Stock Clerk|25
+Daly City|Stock Clerk|20
+San Bruno|Stock Clerk|3
+Pacifica|Stock Clerk|15
+Millbrae|Stock Clerk|14
+Hayward|Stock Clerk|4
+Colma|Stock Clerk|4
+American Canyon|Stock Clerk|3
+Rodeo|Stock Clerk|3
+Belvedere Tiburon|Stock Clerk|2
+Martinez|Inspector|2
+Oakland|Inspector|29
+San Francisco Bay Area|Inspector|21
+Concord|Inspector|8
+Hercules|Inspector|2
+San Francisco|Inspector|66
+East Bay|Inspector|3
+Bay Point|Inspector|2
+Walnut Creek|Inspector|7
+Ross|Inspector|1
+Berkeley|Inspector|22
+Tiburon|Inspector|1
+Vallejo|Inspector|2
+San Leandro|Inspector|7
+Napa Valley|Inspector|2
+South San Francisco|Inspector|4
+Richmond|Inspector|1
+Burlingame|Inspector|5
+Emeryville|Inspector|4
+Benicia|Inspector|1
+Novato|Inspector|6
+Petaluma|Inspector|1
+San Rafael|Inspector|7
+Alameda|Inspector|2
+Pleasant Hill|Inspector|3
+San Ramon|Inspector|3
+Sonoma|Inspector|2
+Daly City|Inspector|1
+San Francisco Bay Area|Courier/Delivery|1
+San Francisco|Shipping|785
+San Rafael|Shipping|152
+Richmond|Shipping|39
+Hercules|Shipping|4
+San Leandro|Shipping|52
+Oakland|Shipping|82
+Emeryville|Shipping|25
+Sonoma|Shipping|4
+Alameda|Shipping|25
+Martinez|Shipping|6
+Sausalito|Shipping|2
+San Francisco Bay Area|Shipping|21
+Benicia|Shipping|9
+Novato|Shipping|15
+American Canyon|Shipping|7
+Berkeley|Shipping|37
+Point Reyes Station|Shipping|2
+Concord|Shipping|22
+Petaluma|Shipping|18
+Hayward|Shipping|3
+Walnut Creek|Shipping|16
+Pleasant Hill|Shipping|8
+Pinole|Shipping|7
+Castro Valley|Shipping|3
+Colma|Shipping|8
+Orinda|Shipping|2
+Daly City|Shipping|7
+South San Francisco|Shipping|34
+El Cerrito|Shipping|5
+Brisbane|Shipping|9
+Pacheco|Shipping|1
+San Ramon|Shipping|6
+Larkspur|Shipping|3
+Burlingame|Shipping|2
+San Anselmo|Shipping|2
+San Bruno|Shipping|9
+Greenbrae|Shipping|4
+Corte Madera|Shipping|118
+Point Richmond|Shipping|1
+Danville|Shipping|2
+Vallejo|Shipping|5
+Lafayette|Shipping|1
+Albany|Shipping|2
+Napa|Shipping|2
+Fairfax|Shipping|1
+Mill Valley|Shipping|1
+Millbrae|Shipping|2
+Pacifica|Shipping|2
+Clayton|Shipping|1
+Moraga|Shipping|1
+San Lorenzo|Shipping|1
+Kentfield|Shipping|1
+Oakland|Custodian|19
+Berkeley|Custodian|9
+Walnut Creek|Custodian|3
+San Francisco|Custodian|47
+Novato|Custodian|1
+Hercules|Custodian|5
+Concord|Custodian|5
+Mill Valley|Custodian|7
+East Bay|Custodian|3
+Richmond|Custodian|1
+El Cerrito|Custodian|3
+Vallejo|Custodian|7
+Castro Valley|Custodian|7
+Danville|Custodian|4
+San Rafael|Custodian|1
+Petaluma|Custodian|1
+San Leandro|Custodian|2
+Orinda|Custodian|2
+San Lorenzo|Custodian|3
+Sonoma|Custodian|3
+Sausalito|Custodian|1
+Emeryville|Packer|3
+San Francisco|Packer|24
+Oakland|Packer|1
+San Pablo|Packer|1
+Richmond|Packer|2
+Martinez|Packer|5
+Walnut Creek|Packer|1
+Berkeley|Packer|4
+Petaluma|Packer|2
+San Ramon|Packer|7
+South San Francisco|Packer|1
+San Francisco Bay Area|Packer|3
+Sonoma|Packer|1
+Richmond|Construction|37
+Oakland|Construction|160
+Berkeley|Construction|40
+San Anselmo|Construction|1
+Greenbrae|Construction|1
+San Rafael|Construction|20
+Walnut Creek|Construction|359
+San Francisco Bay Area|Construction|382
+Martinez|Construction|22
+Novato|Construction|8
+South San Francisco|Construction|272
+Hayward|Construction|3
+San Francisco|Construction|1017
+Benicia|Construction|19
+Tiburon|Construction|3
+Mill Valley|Construction|2
+Sausalito|Construction|2
+Hercules|Construction|10
+Orinda|Construction|1
+East Bay|Construction|9
+Burlingame|Construction|3
+Alameda|Construction|18
+Daly City|Construction|6
+Petaluma|Construction|9
+Concord|Construction|40
+Millbrae|Construction|1
+Pacifica|Construction|1
+Emeryville|Construction|13
+San Ramon|Construction|23
+San Leandro|Construction|29
+El Sobrante|Construction|3
+Vallejo|Construction|8
+Pleasant Hill|Construction|5
+Napa|Construction|1
+Castro Valley|Construction|7
+San Pablo|Construction|4
+Danville|Construction|4
+Fairfax|Construction|3
+Lafayette|Construction|6
+Fairfield|Construction|4
+Woodacre|Construction|1
+Napa Valley|Construction|3
+American Canyon|Construction|3
+Pacheco|Construction|4
+Mare Island|Construction|2
+Crockett|Construction|2
+Pinole|Construction|2
+Colma|Construction|2
+Brisbane|Construction|2
+San Bruno|Construction|1
+San Lorenzo|Construction|1
+Hayward|Installer|8
+Albany|Installer|1
+Richmond|Installer|9
+San Leandro|Installer|10
+Emeryville|Installer|4
+Berkeley|Installer|9
+Oakland|Installer|26
+Benicia|Installer|7
+San Bruno|Installer|4
+Alameda|Installer|1
+Daly City|Installer|1
+Orinda|Installer|1
+Walnut Creek|Installer|4
+San Francisco|Installer|80
+Petaluma|Installer|6
+Martinez|Installer|3
+Fairfield|Installer|2
+El Cerrito|Installer|1
+Danville|Installer|1
+El Sobrante|Installer|1
+East Bay|Installer|5
+San Rafael|Installer|22
+Brisbane|Installer|4
+Pacifica|Installer|1
+Millbrae|Installer|1
+San Francisco Bay Area|Installer|13
+South San Francisco|Installer|5
+Castro Valley|Installer|1
+Pinole|Installer|1
+Concord|Installer|11
+Vallejo|Installer|3
+Novato|Installer|3
+San Anselmo|Installer|1
+Pacheco|Installer|1
+Lafayette|Installer|3
+San Ramon|Installer|1
+East Bay|Bus Driver|2
+Richmond|Bus Driver|3
+Oakland|Bus Driver|13
+Martinez|Bus Driver|1
+San Francisco|Bus Driver|46
+Concord|Bus Driver|4
+Pinole|Bus Driver|2
+Alameda|Bus Driver|2
+Walnut Creek|Bus Driver|6
+Vallejo|Bus Driver|9
+San Rafael|Bus Driver|4
+Novato|Bus Driver|2
+San Bruno|Bus Driver|1
+San Francisco Bay Area|Bus Driver|3
+Castro Valley|Bus Driver|2
+Brisbane|Bus Driver|5
+Hercules|Bus Driver|1
+San Leandro|Bus Driver|3
+Napa|Bus Driver|1
+South San Francisco|Bus Driver|1
+Millbrae|Bus Driver|1
+Mill Valley|Bus Driver|1
+Daly City|Bus Driver|1
+Castro Valley|Child Care|7
+Richmond|Child Care|12
+Albany|Child Care|5
+Oakland|Child Care|146
+Emeryville|Child Care|11
+San Pablo|Child Care|2
+San Leandro|Child Care|23
+Moraga|Child Care|1
+Walnut Creek|Child Care|41
+Concord|Child Care|18
+Berkeley|Child Care|46
+San Francisco|Child Care|280
+San Francisco Bay Area|Child Care|13
+Lafayette|Child Care|2
+Martinez|Child Care|7
+Petaluma|Child Care|16
+San Rafael|Child Care|20
+Millbrae|Child Care|5
+Pacifica|Child Care|9
+Larkspur|Child Care|5
+Vallejo|Child Care|18
+Alameda|Child Care|10
+Alamo|Child Care|1
+Clayton|Child Care|1
+Benicia|Child Care|4
+Pinole|Child Care|3
+Pleasant Hill|Child Care|13
+San Ramon|Child Care|12
+Daly City|Child Care|9
+Sausalito|Child Care|2
+Mill Valley|Child Care|4
+Fairfax|Child Care|3
+South San Francisco|Child Care|11
+Danville|Child Care|11
+San Lorenzo|Child Care|6
+Point Reyes Station|Child Care|1
+Sonoma|Child Care|1
+East Bay|Child Care|4
+San Bruno|Child Care|7
+El Sobrante|Child Care|2
+Hayward|Child Care|5
+Novato|Child Care|17
+Orinda|Child Care|1
+Corte Madera|Child Care|1
+Greenbrae|Child Care|2
+Piedmont|Child Care|1
+Pinole|Food Service|10
+El Cerrito|Food Service|13
+Albany|Food Service|7
+Hercules|Food Service|5
+Alameda|Food Service|21
+Pleasant Hill|Food Service|596
+Berkeley|Food Service|66
+Oakland|Food Service|688
+San Pablo|Food Service|13
+Martinez|Food Service|11
+Mill Valley|Food Service|9
+San Rafael|Food Service|43
+San Francisco|Food Service|1476
+San Francisco Bay Area|Food Service|11
+Emeryville|Food Service|23
+Walnut Creek|Food Service|55
+Concord|Food Service|38
+Richmond|Food Service|29
+Lafayette|Food Service|9
+East Bay|Food Service|5
+Castro Valley|Food Service|17
+Sausalito|Food Service|4
+San Leandro|Food Service|24
+Novato|Food Service|13
+Vallejo|Food Service|20
+Petaluma|Food Service|15
+Napa|Food Service|2
+South San Francisco|Food Service|14
+Danville|Food Service|9
+San Ramon|Food Service|3
+Sonoma|Food Service|10
+Daly City|Food Service|13
+Greenbrae|Food Service|6
+Benicia|Food Service|8
+San Bruno|Food Service|4
+Colma|Food Service|1
+Rodeo|Food Service|2
+Orinda|Food Service|5
+Larkspur|Food Service|3
+Hayward|Food Service|8
+Fairfax|Food Service|1
+San Anselmo|Food Service|3
+Millbrae|Food Service|593
+American Canyon|Food Service|4
+San Lorenzo|Food Service|7
+Burlingame|Food Service|4
+Moraga|Food Service|2
+Marin City|Food Service|1
+Point Richmond|Food Service|1
+Corte Madera|Food Service|4
+Brisbane|Food Service|4
+Napa Valley|Food Service|2
+Pacifica|Food Service|1
+Belvedere Tiburon|Food Service|1
+Point Reyes Station|Food Service|1
+El Sobrante|Food Service|1
+Oakland|Janitor|5
+Richmond|Janitor|4
+San Francisco|Janitor|27
+Berkeley|Janitor|4
+San Francisco Bay Area|Janitor|2
+Martinez|Janitor|1
+Alameda|Janitor|3
+Larkspur|Janitor|1
+San Leandro|Janitor|2
+Petaluma|Janitor|3
+Greenbrae|Janitor|1
+Albany|Janitor|2
+Emeryville|Janitor|3
+San Rafael|Janitor|2
+Concord|Janitor|4
+Lafayette|Janitor|1
+Pleasant Hill|Janitor|1
+Walnut Creek|Janitor|4
+Pinole|Janitor|1
+Colma|Janitor|1
+San Ramon|Janitor|1
+Novato|Janitor|1
+Berkeley|Plumber|1
+San Rafael|Plumber|2
+Concord|Plumber|6
+Walnut Creek|Plumber|2
+San Francisco|Plumber|10
+San Francisco Bay Area|Plumber|3
+Mill Valley|Plumber|1
+Danville|Plumber|1
+San Ramon|Plumber|2
+Oakland|Plumber|2
+San Bruno|Plumber|1
+San Leandro|Plumber|1
+Corte Madera|Plumber|3
+Sonoma|Plumber|1
+Benicia|Plumber|1
+East Bay|Plumber|2
+Oakland|Bartender|12
+Berkeley|Bartender|17
+Walnut Creek|Bartender|13
+San Francisco|Bartender|84
+Pleasant Hill|Bartender|3
+Emeryville|Bartender|2
+Alameda|Bartender|5
+Concord|Bartender|6
+San Rafael|Bartender|5
+Vallejo|Bartender|4
+Sausalito|Bartender|1
+Pinole|Bartender|1
+El Cerrito|Bartender|3
+South San Francisco|Bartender|1
+Corte Madera|Bartender|1
+Larkspur|Bartender|4
+Napa|Bartender|2
+San Bruno|Bartender|5
+Danville|Bartender|2
+San Anselmo|Bartender|1
+East Bay|Bartender|1
+Millbrae|Bartender|2
+Novato|Bartender|3
+Alamo|Bartender|1
+Petaluma|Bartender|4
+San Leandro|Bartender|4
+San Ramon|Bartender|2
+Sonoma|Bartender|5
+Colma|Bartender|1
+Castro Valley|Bartender|1
+Daly City|Bartender|1
+San Francisco Bay Area|Bartender|1
+San Leandro|Press Operator|1
+Richmond|Press Operator|1
+San Francisco|Press Operator|13
+Concord|Press Operator|3
+Berkeley|Press Operator|1
+Petaluma|Press Operator|1
+Albany|Helper|1
+Concord|Helper|6
+Oakland|Helper|13
+East Bay|Helper|3
+El Sobrante|Helper|1
+San Ramon|Helper|5
+El Cerrito|Helper|8
+San Rafael|Helper|13
+South San Francisco|Helper|2
+San Francisco|Helper|58
+San Leandro|Helper|4
+Berkeley|Helper|5
+Petaluma|Helper|2
+Vallejo|Helper|2
+Richmond|Helper|1
+Walnut Creek|Helper|1
+San Francisco Bay Area|Helper|4
+Orinda|Helper|3
+Brisbane|Helper|1
+Rodeo|Helper|2
+Alameda|Helper|5
+Lafayette|Helper|4
+Sonoma|Helper|2
+Daly City|Helper|3
+Martinez|Helper|3
+Benicia|Helper|2
+Castro Valley|Helper|5
+Westlake|Helper|4
+Pleasant Hill|Helper|3
+Moraga|Helper|1
+Piedmont|Helper|2
+Pacifica|Helper|1
+American Canyon|Helper|3
+Millbrae|Helper|7
+Tiburon|Helper|1
+San Bruno|Helper|5
+Larkspur|Helper|2
+Novato|Helper|1
+Mill Valley|Helper|1
+Alamo|Helper|1
+Danville|Helper|1
+Emeryville|Helper|5
+Richmond|Lineman|2
+San Francisco|Lineman|2
+Petaluma|Lineman|1
+Concord|Lineman|1
+Oakland|Lineman|1
+Oakland|Butcher|3
+Berkeley|Butcher|3
+San Francisco|Butcher|6
+Pleasant Hill|Printer|6
+Concord|Printer|14
+Oakland|Printer|44
+Berkeley|Printer|25
+Richmond|Printer|9
+Greenbrae|Printer|1
+Novato|Printer|12
+San Francisco|Printer|284
+Alameda|Printer|8
+Pinole|Printer|2
+Emeryville|Printer|14
+Walnut Creek|Printer|23
+East Bay|Printer|16
+San Rafael|Printer|24
+San Leandro|Printer|10
+Hercules|Printer|5
+San Francisco Bay Area|Printer|9
+South San Francisco|Printer|5
+Brisbane|Printer|3
+Martinez|Printer|6
+Vallejo|Printer|8
+Petaluma|Printer|5
+Orinda|Printer|4
+Hayward|Printer|3
+Sonoma|Printer|2
+San Ramon|Printer|17
+American Canyon|Printer|2
+Benicia|Printer|4
+Burlingame|Printer|1
+Daly City|Printer|8
+Danville|Printer|1
+Millbrae|Printer|1
+Napa|Printer|1
+Point Reyes Station|Printer|1
+Colma|Printer|1
+El Cerrito|Printer|1
+San Bruno|Printer|4
+Napa Valley|Printer|2
+San Francisco|Seamstress|2
+Concord|Seamstress|1
+Berkeley|Chef|46
+San Francisco Bay Area|Chef|61
+Pleasant Hill|Chef|2
+Emeryville|Chef|15
+San Francisco|Chef|888
+Walnut Creek|Chef|20
+Oakland|Chef|114
+Sonoma|Chef|7
+Napa|Chef|7
+South San Francisco|Chef|12
+San Anselmo|Chef|1
+Sausalito|Chef|11
+Richmond|Chef|5
+Larkspur|Chef|2
+San Rafael|Chef|9
+Belvedere Tiburon|Chef|2
+Petaluma|Chef|5
+Lafayette|Chef|2
+Concord|Chef|11
+Novato|Chef|8
+Corte Madera|Chef|15
+San Bruno|Chef|9
+San Leandro|Chef|4
+Benicia|Chef|4
+Danville|Chef|2
+Millbrae|Chef|1
+Greenbrae|Chef|1
+San Ramon|Chef|30
+Brisbane|Chef|3
+Alameda|Chef|3
+El Cerrito|Chef|1
+Vallejo|Chef|1
+Daly City|Chef|3
+Mill Valley|Chef|3
+Point Reyes Station|Chef|2
+Tiburon|Chef|3
+Concord|Toolmaker|1
+Berkeley|Pipefitter|3
+San Rafael|Pipefitter|1
+San Francisco|Pipefitter|1
+Alameda|Pipefitter|1
+Rodeo|Pipefitter|1
+Vallejo|Pipefitter|1
+Martinez|Pipefitter|3
+Richmond|Repairman|1
+Pinole|Baker|6
+Castro Valley|Baker|4
+El Cerrito|Baker|2
+Berkeley|Baker|3
+Emeryville|Baker|2
+Concord|Baker|5
+Oakland|Baker|12
+San Rafael|Baker|3
+Lafayette|Baker|6
+Walnut Creek|Baker|10
+Alameda|Baker|7
+San Leandro|Baker|2
+San Francisco|Baker|64
+Vallejo|Baker|3
+Novato|Baker|6
+Orinda|Baker|1
+Richmond|Baker|3
+Petaluma|Baker|4
+South San Francisco|Baker|3
+Napa|Baker|1
+Alamo|Baker|2
+Greenbrae|Baker|7
+San Francisco Bay Area|Baker|1
+Mill Valley|Baker|2
+Millbrae|Baker|5
+Pacifica|Baker|3
+Pleasant Hill|Baker|7
+Daly City|Baker|3
+Corte Madera|Baker|2
+San Ramon|Baker|3
+Danville|Baker|2
+Tiburon|Baker|1
+San Bruno|Baker|1
+Berkeley|Attendant|20
+Richmond|Attendant|6
+San Francisco|Attendant|193
+Walnut Creek|Attendant|36
+Lafayette|Attendant|13
+San Rafael|Attendant|27
+Alameda|Attendant|12
+American Canyon|Attendant|3
+San Pablo|Attendant|1
+Petaluma|Attendant|8
+Emeryville|Attendant|16
+Vallejo|Attendant|19
+San Bruno|Attendant|3
+Oakland|Attendant|38
+San Leandro|Attendant|6
+Moraga|Attendant|2
+Concord|Attendant|21
+Mill Valley|Attendant|3
+Greenbrae|Attendant|1
+Pinole|Attendant|2
+Sonoma|Attendant|13
+Millbrae|Attendant|4
+Westlake|Attendant|1
+Hercules|Attendant|1
+Alamo|Attendant|4
+Rodeo|Attendant|1
+Crockett|Attendant|1
+Pacifica|Attendant|2
+Larkspur|Attendant|4
+San Ramon|Attendant|5
+Martinez|Attendant|2
+South San Francisco|Attendant|18
+Pleasant Hill|Attendant|13
+Danville|Attendant|2
+El Cerrito|Attendant|1
+San Lorenzo|Attendant|1
+San Francisco Bay Area|Attendant|4
+East Bay|Attendant|2
+Burlingame|Attendant|4
+Fairfield|Attendant|1
+Corte Madera|Attendant|2
+Napa Valley|Attendant|2
+Sausalito|Attendant|3
+Brisbane|Attendant|4
+Daly City|Attendant|5
+Novato|Attendant|1
+Richmond|Auto Mechanic|6
+Oakland|Auto Mechanic|8
+Albany|Auto Mechanic|1
+San Leandro|Auto Mechanic|3
+El Cerrito|Auto Mechanic|5
+Walnut Creek|Auto Mechanic|1
+Millbrae|Auto Mechanic|1
+Concord|Auto Mechanic|5
+San Francisco|Auto Mechanic|18
+Vallejo|Auto Mechanic|1
+Daly City|Auto Mechanic|4
+Hayward|Auto Mechanic|2
+San Francisco Bay Area|Auto Mechanic|1
+Berkeley|Auto Mechanic|4
+South San Francisco|Auto Mechanic|6
+Brisbane|Auto Mechanic|4
+San Rafael|Auto Mechanic|1
+Colma|Auto Mechanic|1
+Petaluma|Auto Mechanic|1
+East Bay|Transportation|9
+Oakland|Transportation|169
+Richmond|Transportation|557
+Berkeley|Transportation|537
+San Leandro|Transportation|50
+San Rafael|Transportation|517
+San Francisco|Transportation|802
+San Pablo|Transportation|92
+El Cerrito|Transportation|5
+Concord|Transportation|28
+Vallejo|Transportation|20
+Rodeo|Transportation|7
+Pinole|Transportation|14
+Pleasant Hill|Transportation|23
+South San Francisco|Transportation|44
+Hayward|Transportation|3
+Martinez|Transportation|20
+Lagunitas|Transportation|1
+Walnut Creek|Transportation|107
+Point Richmond|Transportation|3
+San Quentin|Transportation|1
+Fairfax|Transportation|1
+Colma|Transportation|2
+Brisbane|Transportation|5
+Daly City|Transportation|9
+San Francisco Bay Area|Transportation|20
+Petaluma|Transportation|11
+American Canyon|Transportation|4
+Danville|Transportation|9
+Hercules|Transportation|8
+Novato|Transportation|6
+Pacifica|Transportation|3
+Emeryville|Transportation|9
+Millbrae|Transportation|5
+Pacheco|Transportation|1
+Alameda|Transportation|15
+San Bruno|Transportation|3
+Lafayette|Transportation|555
+Castro Valley|Transportation|11
+Tiburon|Transportation|2
+Sonoma|Transportation|10
+Corte Madera|Transportation|8
+Mill Valley|Transportation|1
+San Lorenzo|Transportation|2
+Benicia|Transportation|7
+San Ramon|Transportation|12
+Bay Point|Transportation|1
+Larkspur|Transportation|5
+Fairfield|Transportation|1
+El Sobrante|Transportation|2
+Napa|Transportation|1
+Burlingame|Transportation|3
+Albany|Transportation|2
+Orinda|Transportation|2
+San Anselmo|Transportation|1
+Clyde|Transportation|2
+Crockett|Transportation|1
+Cherryland|Transportation|2
+Piedmont|Transportation|1
+Port Costa|Transportation|1
+Moraga|Transportation|1
+Napa Valley|Transportation|1
+Richmond|Roofer|4
+Walnut Creek|Roofer|1
+Oakland|Roofer|2
+Alameda|Roofer|1
+Vallejo|Roofer|2
+San Francisco|Roofer|3
+San Francisco Bay Area|Roofer|1
+Petaluma|Roofer|1
+Mill Valley|Roofer|2
+San Francisco|Finisher|8
+San Leandro|Finisher|5
+Concord|Finisher|1
+Walnut Creek|Finisher|2
+Alameda|Finisher|1
+San Rafael|Finisher|3
+El Sobrante|Finisher|2
+Fairfield|Finisher|1
+Oakland|Finisher|1
+Novato|Finisher|1
+South San Francisco|Finisher|2
+Daly City|Finisher|1
+San Francisco|Ironworker|4
+San Francisco Bay Area|Dock Worker|3
+Berkeley|Dock Worker|3
+San Francisco|Dock Worker|6
+Oakland|Dock Worker|5
+Petaluma|Dock Worker|4
+San Ramon|Dock Worker|2
+Danville|Dock Worker|1
+San Rafael|Dock Worker|1
+San Leandro|Dock Worker|1
+Martinez|Loader|3
+Concord|Loader|5
+Petaluma|Loader|4
+South San Francisco|Loader|3
+Oakland|Loader|8
+Berkeley|Loader|1
+San Francisco|Loader|56
+Richmond|Loader|4
+San Leandro|Loader|3
+San Ramon|Loader|3
+Orinda|Loader|2
+Daly City|Loader|2
+Piedmont|Loader|1
+Sonoma|Loader|1
+Albany|Loader|2
+Hercules|Loader|2
+Napa|Loader|1
+Alameda|Loader|1
+Walnut Creek|Loader|1
+San Francisco Bay Area|Loader|1
+Mill Valley|Loader|3
+Alameda|Millwright|1
+Concord|Millwright|1
+San Francisco|Millwright|2
+Martinez|Millwright|2
+Crockett|Millwright|2
+Oakland|Cutter|20
+Berkeley|Cutter|16
+San Leandro|Cutter|6
+Fairfield|Cutter|2
+Concord|Cutter|8
+El Cerrito|Cutter|4
+Vallejo|Cutter|4
+Lafayette|Cutter|4
+Walnut Creek|Cutter|19
+San Francisco|Cutter|45
+Sonoma|Cutter|1
+San Rafael|Cutter|12
+Alameda|Cutter|5
+Napa Valley|Cutter|1
+South San Francisco|Cutter|10
+East Bay|Cutter|1
+Hayward|Cutter|2
+Petaluma|Cutter|12
+Orinda|Cutter|1
+Corte Madera|Cutter|3
+Emeryville|Cutter|3
+Belvedere Tiburon|Cutter|1
+San Pablo|Cutter|2
+Novato|Cutter|3
+Richmond|Cutter|1
+Daly City|Cutter|21
+Pleasant Hill|Cutter|2
+Martinez|Cutter|3
+Castro Valley|Cutter|1
+American Canyon|Cutter|1
+Pacifica|Cutter|6
+Mill Valley|Cutter|4
+San Ramon|Cutter|8
+Burlingame|Cutter|4
+Millbrae|Cutter|5
+San Bruno|Cutter|3
+Albany|Cutter|1
+San Francisco Bay Area|Cutter|1
+Tiburon|Cutter|1
+Brisbane|Cutter|2
+San Rafael|Forestry|1
+Martinez|Forestry|4
+San Francisco|Forestry|8
+East Bay|Forestry|1
+Oakland|Forestry|2
+Concord|Forestry|1
+San Francisco Bay Area|Forestry|2
+Daly City|Forestry|2
+Berkeley|Forestry|1
+Oakland|Cosmetologist|6
+Pinole|Cosmetologist|2
+Alameda|Cosmetologist|2
+San Rafael|Cosmetologist|5
+Concord|Cosmetologist|1
+Berkeley|Cosmetologist|3
+Millbrae|Cosmetologist|2
+San Francisco|Cosmetologist|15
+San Bruno|Cosmetologist|3
+Walnut Creek|Cosmetologist|2
+Emeryville|Cosmetologist|1
+Mill Valley|Cosmetologist|1
+Daly City|Cosmetologist|2
+Novato|Cosmetologist|1
+Oakland|Forklift Operator|14
+Hayward|Forklift Operator|1
+San Leandro|Forklift Operator|9
+Concord|Forklift Operator|2
+Martinez|Forklift Operator|1
+San Francisco|Forklift Operator|9
+Vallejo|Forklift Operator|1
+American Canyon|Forklift Operator|3
+Castro Valley|Forklift Operator|1
+Berkeley|Forklift Operator|2
+San Francisco Bay Area|Forklift Operator|3
+Richmond|Forklift Operator|7
+Brisbane|Forklift Operator|4
+South San Francisco|Forklift Operator|1
+Emeryville|Forklift Operator|1
+Sonoma|Forklift Operator|1
+Petaluma|Forklift Operator|3
+Fairfield|Forklift Operator|2
+Benicia|Forklift Operator|2
+Richmond|Parts|995
+Martinez|Parts|198
+Berkeley|Parts|1422
+Hercules|Parts|17
+San Leandro|Parts|61
+Oakland|Parts|2216
+El Cerrito|Parts|12
+San Pablo|Parts|6
+Emeryville|Parts|36
+Napa|Parts|2
+San Francisco|Parts|629
+Daly City|Parts|6
+Alameda|Parts|21
+Concord|Parts|35
+Walnut Creek|Parts|33
+El Sobrante|Parts|2
+Pinole|Parts|8
+Rodeo|Parts|3
+Albany|Parts|4
+Petaluma|Parts|9
+San Francisco Bay Area|Parts|27
+Pleasant Hill|Parts|3936
+Benicia|Parts|7
+Point Richmond|Parts|4
+San Rafael|Parts|28
+Orinda|Parts|1
+Castro Valley|Parts|4
+Fairfax|Parts|1
+East Bay|Parts|7
+San Geronimo|Parts|1
+Moraga|Parts|8
+Pacheco|Parts|1
+South San Francisco|Parts|10
+Sonoma|Parts|2
+Novato|Parts|7
+Vallejo|Parts|2223
+Greenbrae|Parts|2
+Fairfield|Parts|1
+Ross|Parts|1
+Larkspur|Parts|2
+San Anselmo|Parts|3
+San Bruno|Parts|1
+Sausalito|Parts|1
+Crockett|Parts|1
+American Canyon|Parts|2
+Corte Madera|Parts|2
+Napa Valley|Parts|1
+San Lorenzo|Parts|1
+San Ramon|Parts|6
+Burlingame|Parts|2
+Clayton|Parts|1
+Lafayette|Parts|3
+Danville|Parts|1
+Bay Point|Parts|1
+Oakland|Steel Worker|4
+Vallejo|Steel Worker|3
+Richmond|Steel Worker|1
+San Francisco|Steel Worker|6
+Alameda|Steel Worker|1
+Benicia|Steel Worker|1
+South San Francisco|Steel Worker|1
+Berkeley|Porter|3
+Lafayette|Porter|1
+Concord|Porter|12
+Oakland|Porter|3
+San Francisco|Porter|53
+Richmond|Porter|1
+San Ramon|Porter|4
+Walnut Creek|Porter|5
+Sausalito|Porter|8
+San Rafael|Porter|7
+Westlake|Porter|1
+Alameda|Porter|3
+Corte Madera|Porter|2
+Pleasant Hill|Porter|2
+El Cerrito|Porter|1
+Berkeley|Sanitation|139
+Oakland|Sanitation|87
+Martinez|Sanitation|71
+Mill Valley|Sanitation|21
+El Cerrito|Sanitation|18
+San Francisco|Sanitation|283
+Pinole|Sanitation|7
+Alamo|Sanitation|5
+American Canyon|Sanitation|2
+Walnut Creek|Sanitation|45
+South San Francisco|Sanitation|12
+Concord|Sanitation|24
+El Sobrante|Sanitation|2
+Petaluma|Sanitation|28
+Pleasant Hill|Sanitation|19
+Millbrae|Sanitation|18
+San Francisco Bay Area|Sanitation|11
+Castro Valley|Sanitation|15
+San Pablo|Sanitation|3
+San Leandro|Sanitation|28
+San Rafael|Sanitation|86
+Albany|Sanitation|8
+Napa Valley|Sanitation|4
+Sonoma|Sanitation|8
+Greenbrae|Sanitation|3
+Vallejo|Sanitation|162
+Lafayette|Sanitation|16
+Richmond|Sanitation|10
+Benicia|Sanitation|8
+Burlingame|Sanitation|4
+Alameda|Sanitation|13
+Novato|Sanitation|19
+Corte Madera|Sanitation|9
+Moraga|Sanitation|12
+Pacifica|Sanitation|11
+San Lorenzo|Sanitation|2
+Hercules|Sanitation|2
+Emeryville|Sanitation|11
+Rodeo|Sanitation|7
+Daly City|Sanitation|12
+Danville|Sanitation|9
+Colma|Sanitation|2
+San Bruno|Sanitation|13
+Orinda|Sanitation|3
+San Ramon|Sanitation|10
+Point Richmond|Sanitation|1
+Sausalito|Sanitation|1
+Larkspur|Sanitation|3
+Napa|Sanitation|6
+Hayward|Sanitation|3
+Clayton|Sanitation|3
+San Francisco|Utility|686
+Emeryville|Utility|9
+Richmond|Utility|46
+Oakland|Utility|92
+San Rafael|Utility|105
+Martinez|Utility|9
+South San Francisco|Utility|30
+Walnut Creek|Utility|47
+Berkeley|Utility|38
+Vallejo|Utility|10
+Concord|Utility|36
+Benicia|Utility|10
+Novato|Utility|8
+Daly City|Utility|80
+San Francisco Bay Area|Utility|18
+San Leandro|Utility|13
+Millbrae|Utility|1
+Moraga|Utility|1
+San Ramon|Utility|46
+Pacheco|Utility|1
+Petaluma|Utility|12
+Hayward|Utility|2
+East Bay|Utility|3
+Alameda|Utility|3
+Danville|Utility|7
+Napa|Utility|1
+Rodeo|Utility|1
+Pleasant Hill|Utility|3
+Sonoma|Utility|1
+Pinole|Utility|3
+Mare Island|Utility|1
+Mill Valley|Utility|2
+San Anselmo|Utility|72
+Civic Center Plaza|Utility|1
+Castro Valley|Utility|6
+Alamo|Utility|1
+San Bruno|Utility|2
+Brisbane|Utility|3
+Napa Valley|Utility|1
+San Francisco|Crewman|1
+Concord|Shop Foreman|1
+Oakland|Shop Foreman|1
+San Rafael|Shop Foreman|1
+San Francisco Bay Area|Shop Foreman|2
+Walnut Creek|Shop Foreman|2
+San Bruno|Shop Foreman|2
+South San Francisco|Shop Foreman|1
+San Francisco|Grinder|27
+Berkeley|Grinder|6
+San Leandro|Grinder|6
+Oakland|Grinder|6
+Canyon|Grinder|5
+San Rafael|Grinder|5
+Richmond|Grinder|1
+Concord|Grinder|1
+Walnut Creek|Grinder|5
+East Bay|Grinder|1
+Benicia|Grinder|2
+Martinez|Grinder|8
+Vallejo|Grinder|1
+Castro Valley|Grinder|2
+American Canyon|Grinder|2
+Alameda|Grinder|2
+Novato|Grinder|1
+Daly City|Grinder|3
+Petaluma|Grinder|3
+Pacifica|Grinder|2
+San Ramon|Grinder|7
+Oakland|Journeyman|15
+Richmond|Journeyman|3
+Martinez|Journeyman|1
+Vallejo|Journeyman|9
+San Francisco|Journeyman|38
+Benicia|Journeyman|5
+San Rafael|Journeyman|3
+Alameda|Journeyman|12
+Berkeley|Journeyman|8
+San Francisco Bay Area|Journeyman|13
+Concord|Journeyman|11
+Mill Valley|Journeyman|3
+East Bay|Journeyman|3
+South San Francisco|Journeyman|4
+Castro Valley|Journeyman|3
+San Leandro|Journeyman|3
+Petaluma|Journeyman|7
+Sausalito|Journeyman|1
+Daly City|Journeyman|6
+Millbrae|Journeyman|1
+Pacifica|Journeyman|2
+American Canyon|Journeyman|2
+Alamo|Journeyman|1
+San Ramon|Journeyman|6
+Sonoma|Journeyman|1
+Richmond|Apprentice|6
+Berkeley|Apprentice|12
+Oakland|Apprentice|10
+San Anselmo|Apprentice|2
+San Rafael|Apprentice|8
+Walnut Creek|Apprentice|11
+Novato|Apprentice|5
+South San Francisco|Apprentice|3
+Concord|Apprentice|10
+San Francisco|Apprentice|44
+Sausalito|Apprentice|2
+Mill Valley|Apprentice|2
+Martinez|Apprentice|3
+El Cerrito|Apprentice|4
+Greenbrae|Apprentice|2
+Daly City|Apprentice|3
+Millbrae|Apprentice|2
+Pacifica|Apprentice|2
+Danville|Apprentice|1
+Petaluma|Apprentice|1
+San Francisco Bay Area|Apprentice|4
+Tiburon|Apprentice|1
+Alameda|Apprentice|6
+Castro Valley|Apprentice|2
+San Leandro|Apprentice|6
+Vallejo|Apprentice|4
+Emeryville|Apprentice|1
+Benicia|Apprentice|3
+Westlake|Apprentice|2
+San Bruno|Apprentice|3
+San Ramon|Apprentice|6
+Sonoma|Apprentice|1
+Richmond|Crane Operator|1
+Martinez|Crane Operator|2
+San Francisco Bay Area|Crane Operator|2
+San Francisco|Crane Operator|4
+Oakland|Crane Operator|4
+San Leandro|Crane Operator|2
+Oakland|Conductor|8
+San Francisco|Conductor|24
+Petaluma|Conductor|4
+South San Francisco|Conductor|2
+San Francisco Bay Area|Conductor|3
+Berkeley|Conductor|1
+Walnut Creek|Conductor|1
+American Canyon|Conductor|1
+Oakland|Meter Reader|2
+Vallejo|Meter Reader|1
+Berkeley|Meter Reader|2
+Berkeley|Fitter|1
+San Francisco|Fitter|4
+Martinez|Fitter|1
+San Leandro|Fitter|1
+Corte Madera|Fitter|2
+Walnut Creek|Fitter|1
+East Bay|Athlete|1
+Emeryville|Athlete|2
+Berkeley|Athlete|27
+Moraga|Athlete|3
+San Francisco|Athlete|78
+Petaluma|Athlete|11
+Oakland|Athlete|4
+Walnut Creek|Athlete|7
+Concord|Athlete|4
+Vallejo|Athlete|2
+Alameda|Athlete|12
+Piedmont|Athlete|1
+Burlingame|Athlete|2
+San Francisco Bay Area|Athlete|14
+San Rafael|Athlete|1
+San Leandro|Athlete|3
+Richmond|Athlete|4
+Daly City|Athlete|1
+Martinez|Athlete|1
+Corte Madera|Athlete|5
+Novato|Athlete|2
+Mill Valley|Athlete|3
+Pleasant Hill|Athlete|2
+Sausalito|Athlete|2
+Danville|Athlete|1
+Oakland|Produce Clerk|9
+San Rafael|Produce Clerk|6
+Corte Madera|Produce Clerk|6
+San Leandro|Produce Clerk|7
+San Francisco|Produce Clerk|14
+San Ramon|Produce Clerk|4
+Alameda|Produce Clerk|2
+Daly City|Produce Clerk|4
+Walnut Creek|Produce Clerk|9
+Pacifica|Produce Clerk|3
+Berkeley|Produce Clerk|7
+Sonoma|Produce Clerk|3
+Mill Valley|Produce Clerk|5
+Albany|Produce Clerk|3
+Petaluma|Produce Clerk|4
+Benicia|Produce Clerk|2
+San Anselmo|Produce Clerk|3
+Martinez|Produce Clerk|1
+Emeryville|Produce Clerk|1
+El Cerrito|Produce Clerk|3
+Rodeo|Produce Clerk|4
+Hayward|Produce Clerk|3
+Novato|Produce Clerk|4
+Castro Valley|Produce Clerk|4
+American Canyon|Produce Clerk|1
+Millbrae|Produce Clerk|6
+Pinole|Produce Clerk|2
+Concord|Produce Clerk|2
+Moraga|Produce Clerk|3
+South San Francisco|Produce Clerk|1
+Lafayette|Produce Clerk|1
+Pleasant Hill|Produce Clerk|1
+Alamo|Produce Clerk|2
+Orinda|Produce Clerk|1
+Tiburon|Produce Clerk|1
+San Leandro|Maintenance Supervisor|54
+Oakland|Maintenance Supervisor|121
+Richmond|Maintenance Supervisor|27
+San Francisco|Maintenance Supervisor|503
+Walnut Creek|Maintenance Supervisor|37
+Berkeley|Maintenance Supervisor|232
+Vallejo|Maintenance Supervisor|108
+Moraga|Maintenance Supervisor|8
+San Rafael|Maintenance Supervisor|38
+East Bay|Maintenance Supervisor|6
+El Cerrito|Maintenance Supervisor|4
+San Lorenzo|Maintenance Supervisor|2
+Point Richmond|Maintenance Supervisor|1
+San Pablo|Maintenance Supervisor|7
+San Francisco Bay Area|Maintenance Supervisor|11
+Rodeo|Maintenance Supervisor|2
+Sonoma|Maintenance Supervisor|5
+Pacheco|Maintenance Supervisor|1
+Fairfax|Maintenance Supervisor|1
+Petaluma|Maintenance Supervisor|30
+Castro Valley|Maintenance Supervisor|5
+Novato|Maintenance Supervisor|13
+Pleasant Hill|Maintenance Supervisor|8
+Concord|Maintenance Supervisor|40
+Benicia|Maintenance Supervisor|11
+Martinez|Maintenance Supervisor|12
+Mill Valley|Maintenance Supervisor|8
+South San Francisco|Maintenance Supervisor|27
+El Sobrante|Maintenance Supervisor|4
+Napa|Maintenance Supervisor|4
+Orinda|Maintenance Supervisor|6
+Pinole|Maintenance Supervisor|5
+Alameda|Maintenance Supervisor|12
+San Ramon|Maintenance Supervisor|10
+Albany|Maintenance Supervisor|2
+Emeryville|Maintenance Supervisor|8
+Fairfield|Maintenance Supervisor|1
+Daly City|Maintenance Supervisor|16
+Pacifica|Maintenance Supervisor|1
+Mare Island|Maintenance Supervisor|2
+Corte Madera|Maintenance Supervisor|2
+Clayton|Maintenance Supervisor|1
+Sausalito|Maintenance Supervisor|1
+San Anselmo|Maintenance Supervisor|2
+Danville|Maintenance Supervisor|2
+Hercules|Maintenance Supervisor|1
+Lafayette|Maintenance Supervisor|1
+Tiburon|Maintenance Supervisor|1
+Canyon|Maintenance Supervisor|3
+Alamo|Maintenance Supervisor|2
+Millbrae|Maintenance Supervisor|7
+San Bruno|Maintenance Supervisor|10
+Brisbane|Maintenance Supervisor|2
+Colma|Maintenance Supervisor|1
+Bay Point|Maintenance Supervisor|1
+Larkspur|Maintenance Supervisor|2
+Martinez|Miner|1
+San Francisco|Miner|9
+South San Francisco|Miner|1
+Danville|Miner|1
+Alamo|Presser|2
+Brisbane|Presser|1
+Oakland|Sorter|4
+Pinole|Sorter|1
+Concord|Sorter|1
+San Leandro|Sorter|2
+San Francisco|Sorter|2
+Napa Valley|Sorter|1
+Hercules|Sorter|4
+San Ramon|Sorter|2
+South San Francisco|Sorter|2
+Walnut Creek|Sorter|1
+El Sobrante|Glazier|1
+Martinez|Glazier|1
+Sonoma|Glazier|1
+San Francisco|Glazier|1
+Alameda|Fabricator|6
+San Francisco|Fabricator|12
+Concord|Fabricator|4
+Oakland|Fabricator|6
+San Leandro|Fabricator|2
+San Francisco Bay Area|Fabricator|1
+Sonoma|Fabricator|1
+San Francisco|Fisherman|64
+San Leandro|Fisherman|1
+South San Francisco|Fisherman|10
+Berkeley|Upholstery|1
+Concord|Upholstery|8
+San Francisco|Upholstery|9
+Richmond|Upholstery|2
+South San Francisco|Upholstery|1
+San Bruno|Upholstery|2
+San Rafael|Upholstery|1
+San Ramon|Upholstery|2
+American Canyon|Upholstery|1
+Walnut Creek|Upholstery|1
+Novato|Upholstery|1
+Daly City|Upholstery|1
+Petaluma|Upholstery|1
+Corte Madera|Upholstery|1
+San Francisco Bay Area|Upholstery|1
+San Francisco|Grocer|29
+South San Francisco|Grocer|2
+San Francisco Bay Area|Binder|8
+Richmond|Binder|1
+Hayward|Binder|1
+San Francisco|Binder|106
+Berkeley|Binder|4
+Oakland|Binder|19
+San Leandro|Binder|2
+Pleasant Hill|Binder|2
+Concord|Binder|6
+Alameda|Binder|2
+Novato|Binder|2
+San Ramon|Binder|5
+Walnut Creek|Binder|8
+San Rafael|Binder|1
+Tiburon|Binder|1
+Corte Madera|Binder|4
+San Bruno|Binder|2
+San Anselmo|Binder|1
+South San Francisco|Binder|4
+Vallejo|Binder|1
+Petaluma|Binder|2
+Lafayette|Polisher|1
+Oakland|Polisher|1
+San Francisco|Polisher|5
+Corte Madera|Polisher|1
+Concord|Polisher|1
+Oakland|Locksmith|2
+Berkeley|Locksmith|2
+San Francisco|Locksmith|5
+Alameda|Locksmith|1
+Concord|Locksmith|2
+Hercules|Material Handler|2
+Richmond|Material Handler|3
+Alameda|Material Handler|1
+Oakland|Material Handler|7
+Berkeley|Material Handler|17
+San Francisco|Material Handler|12
+Bay Point|Material Handler|1
+Novato|Material Handler|1
+Pinole|Material Handler|1
+Concord|Material Handler|1
+American Canyon|Material Handler|5
+San Leandro|Material Handler|7
+Petaluma|Material Handler|6
+South San Francisco|Material Handler|5
+San Francisco Bay Area|Material Handler|1
+Castro Valley|Material Handler|1
+Corte Madera|Material Handler|4
+Daly City|Material Handler|1
+San Francisco|Foundry Worker|2
+Berkeley|Brewer|1
+San Ramon|Brewer|1
+San Francisco Bay Area|Brewer|1
+South San Francisco|Brewer|1
+Oakland|Brewer|1
+San Leandro|Brewer|2
+San Francisco|Brewer|5
+Napa Valley|Brewer|1
+Oakland|Deli Clerk|8
+San Francisco|Deli Clerk|9
+San Rafael|Deli Clerk|6
+Richmond|Deli Clerk|1
+Hayward|Deli Clerk|1
+San Leandro|Deli Clerk|4
+Walnut Creek|Deli Clerk|9
+Sausalito|Deli Clerk|1
+Greenbrae|Deli Clerk|1
+El Cerrito|Deli Clerk|2
+Berkeley|Deli Clerk|1
+Clayton|Deli Clerk|1
+Castro Valley|Deli Clerk|3
+Petaluma|Deli Clerk|4
+Vallejo|Deli Clerk|1
+Alameda|Deli Clerk|3
+Alamo|Deli Clerk|5
+Orinda|Deli Clerk|1
+Moraga|Deli Clerk|3
+San Ramon|Deli Clerk|6
+Pacifica|Deli Clerk|5
+Concord|Deli Clerk|1
+Albany|Deli Clerk|2
+Martinez|Deli Clerk|3
+Daly City|Deli Clerk|5
+Novato|Deli Clerk|6
+Lafayette|Deli Clerk|1
+Emeryville|Deli Clerk|1
+Tiburon|Deli Clerk|1
+Corte Madera|Deli Clerk|1
+Pinole|Deli Clerk|3
+Pleasant Hill|Deli Clerk|1
+Sonoma|Deli Clerk|1
+Millbrae|Deli Clerk|2
+Rodeo|Deli Clerk|2
+Mill Valley|Deli Clerk|2
+Danville|Deli Clerk|1

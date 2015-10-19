@@ -1,0 +1,39 @@
+
+.content-padded {
+    margin: 30px 15px 15px;
+}
+
+div#progress-bar
+{
+    border: 1px #ccc solid;
+    height: 14px;
+    position: relative;
+    overflow: hidden;
+
+    div#progress-bar-complete
+    {
+        background-color: #5cb85c;
+        height: 12px;
+        width: 0%;
+        position: absolute;
+    }
+
+    span.caption
+    {
+        display: block;
+        color: #666666;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1;
+        font-size: 6px;
+        text-transform: uppercase;
+        position: relative;
+        top: 3px;
+    }
+}
+
+.text-danger
+{
+    color: #d9534f;
+}
+
