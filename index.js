@@ -49,5 +49,5 @@ app.get("/api/job-seekers", function(req, res) {
 
 app.use("/admin", express.static("ui"));
 
-app.listen(8080);
+app.listen(80);
 

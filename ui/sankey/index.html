@@ -63,7 +63,7 @@ var sankey = d3.sankey()
 
 var path = sankey.link();
 
-d3.json("/ui/data/sankey_data_2.json", function(energy) {
+d3.json("/admin/data/sankey_data_2.json", function(energy) {
 
   sankey
       .nodes(energy.nodes)
