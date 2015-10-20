@@ -4,9 +4,7 @@ var app = express();
 var async = require("async");
 var request = require("request");
 
-app.get("/", function(req, res) {
-  res.send("hello world");
-});
+app.use("/", express.static("jobsearch"));
 
 app.get("/api/job-seekers", function(req, res) {
   MongoClient.connect("mongodb://localhost:27017/hack", function(err, db) {
@@ -49,7 +47,7 @@ app.get("/api/job-seekers", function(req, res) {
   });
 });
 
-app.use("/ui", express.static("ui"));
+app.use("/admin", express.static("ui"));
 
-app.listen(80);
+app.listen(8080);
 
