@@ -20,8 +20,8 @@
         <ul>
             <li><a class="off" href="#" id="toggle-jobseekers">Jobseekers</a></li>
             <li><a class="off" href="#" id="toggle-vacancies">Vacancies</a></li>
-            <li><a class="off" href="#" id="toggle-graduation">Graduation Rate</a></li>
-            <li><a class="off" href="#" id="toggle-crime">Crime</a></li>
+            <!--<li><a class="off" href="#" id="toggle-graduation">Graduation Rate</a></li>
+            <li><a class="off" href="#" id="toggle-crime">Crime</a></li>-->
         </ul>
     </header>
 
@@ -34,7 +34,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/async/1.4.2/async.min.js"></script>
     <script type="text/javascript">
 
-        var seekersShown = false;
+        var seekersShown = true;
         var vacanciesShown = true;
         var graduateRateShown = false;
         var crimeShown = false;
@@ -78,6 +78,18 @@
             }
 
             mapEntities = [];
+
+            if (seekersShown) 
+            {
+                $.getJSON("/api/job-seekers", function(seekers) {
+                    for (var i in seekers) {
+                        mapEntities.push(new google.maps.Marker({
+                            position: { lat: parseFloat(seekers[i].lat), lng: parseFloat(seekers[i].lng) },
+                            map: map
+                        }));
+                    }
+                });
+            }
 
             if (vacanciesShown)
             {

@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3"
+    "async": "^1.4.2",
+    "express": "^4.13.3",
+    "mongodb": "^2.0.46",
+    "request": "^2.65.0"
   }
 }
