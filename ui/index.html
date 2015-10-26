@@ -81,7 +81,7 @@
 
             if (seekersShown) 
             {
-                $.getJSON("/api/job-seekers", function(seekers) {
+                $.getJSON("data/jobseekers.json", function(seekers) {
                     for (var i in seekers) {
                         mapEntities.push(new google.maps.Marker({
                             position: { lat: parseFloat(seekers[i].lat), lng: parseFloat(seekers[i].lng) },
@@ -93,11 +93,11 @@
 
             if (vacanciesShown)
             {
-                $.getJSON("/admin/data/count_by_region.json", function(data) {
+                $.getJSON("data/count_by_region.json", function(data) {
     
                     async.waterfall([
                             function downloadLocations(next) {
-                                $.getJSON("/admin/data/locations.json", function(data) {
+                                $.getJSON("data/locations.json", function(data) {
                                     next(null, data);
                                 }).fail(function(error) {
                                     console.log(error);
